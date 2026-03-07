@@ -51,7 +51,7 @@ jobs:
           ${{ runner.temp }}/hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://iokabanov.github.io/personal_site_project/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
