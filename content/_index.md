@@ -39,12 +39,10 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 About me'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am a first-year Computer Science student at RUDN University in Moscow, Russia. My interests include operating systems, programming, and version control systems, but I also like studying ML and Cybersecurity. I enjoy working with Linux and building cool things.
 
         Please reach out to collaborate 😃
     design:
