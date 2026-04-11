@@ -28,6 +28,57 @@ education:
     start: 2025-09-01
   - degree: High School
     institution: Moscow State School №2107
+    start: 2023-09-01
+    end: 2025-06-27
     year: 2023 — 2025
+skills:
+  - name: Technical Skills
+    items:
+      - label: Python
+        level: 5
+      - label: C++
+        level: 3
+      - label: Linux
+        level: 3
+      - label: Git
+        level: 2
+      - label: Linear Algebra
+        level: 4
 
+experience:
+  - role: Student
+    org: RUDN University
+    start: 2025-09-01
+    summary: |
+      First-year Computer Science student.
 
+awards:
+  - title: Winner of the Yandex Lyceum Open Contest
+    awarder: Yandex Lyceum
+    date: "2025"
+    summary: |
+      Was awarded this for successfully participating in the Yandex Lyceum ML course.
+    icon: hero/trophy
+  - title: Winner of the All-Russian Olympiad of Schoolchildren in English
+    awarder: Regional Stage (Moscow) of the All-Russian Olympiad of Schoolchildren
+    date: "2025"
+    summary: |
+      Won in the regional stage of the All-Russian Olympiad in English.
+    icon: hero/trophy
+  - title: Winner of the IT-Entrepreneurship Ideathon
+    awarder: HSE FCS and MTS
+    date: "2024"
+    summary: |
+      Worked on the AI in Agriculture case.
+    icon: hero/trophy
+
+languages:
+  - name: Russian
+    level: 5
+    label: Native C2
+  - name: English
+    level: 4.5
+    label: TOEFL C1
+  - name: German
+    level: 1
+    label: Goethe A1
