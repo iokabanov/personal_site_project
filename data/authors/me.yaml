@@ -15,8 +15,19 @@ affiliations:
   - name: RUDN University
     url: https://www.rudn.ru/
 links:
+  - icon: at-symbol
+    url: mailto:1032253495@rudn.ru
+    label: E-mail Me
   - icon: brands/github
     url: https://github.com/iokabanov
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0004-4324-8900
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Ivan-Kabanov-2
+  - icon: academicons/arxiv
+    url: https://arxiv.org/search/?searchtype=author&query=Kabanov+I
+  - icon: brands/academia
+    url: https://independent.academia.edu/IvanKabanov1
 interests:
   - Computer Vision
   - NLP
