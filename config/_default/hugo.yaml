@@ -14,7 +14,7 @@ baseURL: 'https://iokabanov.github.io/personal_site_project/'
 
 defaultContentLanguage: en
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 ############################

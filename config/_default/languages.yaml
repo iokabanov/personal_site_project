@@ -1,22 +1,57 @@
-# Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://docs.hugoblox.com/reference/language/
-
-# Default language
 en:
   languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
+  title: Ivan Kabanov
+  menu:
+    main:
+      - name: Bio
+        url: /
+        weight: 10
+      - name: Papers
+        url: /#papers
+        weight: 11
+      - name: Talks
+        url: /#talks
+        weight: 12
+      - name: News
+        url: /#news
+        weight: 13
+      - name: Experience
+        url: experience/
+        weight: 20
+      - name: Projects
+        url: projects/
+        weight: 30
+      - name: Courses
+        url: courses/
+        weight: 40
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+ru:
+  languageCode: ru
+  contentDir: content/ru
+  title: Иван Кабанов
+  params:
+    description: Персональный сайт Ивана Кабанова
+  menu:
+    main:
+      - name: Обо мне
+        url: /
+        weight: 10
+      - name: Публикации
+        url: /#papers
+        weight: 11
+      - name: Доклады
+        url: /#talks
+        weight: 12
+      - name: Новости
+        url: /#news
+        weight: 13
+      - name: Опыт
+        url: experience/
+        weight: 20
+      - name: Проекты
+        url: projects/
+        weight: 30
+      - name: Курсы
+        url: courses/
+        weight: 40

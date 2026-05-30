@@ -1,0 +1,89 @@
+﻿schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Ivan Kabanov
+  given: Ivan
+  family: Kabanov
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+role: Student
+bio: |
+  Студент РУДН, обожающий все связанное с компьютерными науками
+affiliations:
+  - name: RUDN University
+    url: https://www.rudn.ru/
+links:
+  - icon: at-symbol
+    url: mailto:1032253495@rudn.ru
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/iokabanov
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0004-4324-8900
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Ivan-Kabanov-2
+  - icon: academicons/arxiv
+    url: https://arxiv.org/search/?searchtype=author&query=Kabanov+I
+  - icon: brands/academia
+    url: https://independent.academia.edu/IvanKabanov1
+interests:
+  - Компьютерные науки
+  - NLP
+  - Линейная Алгебра
+  - Кибербезопасность
+education:
+  - degree: Бакалавриат
+    institution: РУДН им. Патриса Лумумбы
+    start: 2025-09-01
+  - degree: Среднее образование
+    institution: ГБОУ г. Москвы Школа №2107
+    start: 2023-09-01
+    end: 2025-06-27
+    year: 2023 — 2025
+skills:
+  - name: Технические навыки
+    items:
+      - label: Python
+        level: 5
+      - label: C++
+        level: 3
+      - label: Linux
+        level: 3
+      - label: Git
+        level: 2
+      - label: Linear Algebra
+        level: 4
+
+experience:
+  - role: Студент
+    org: РУДН им. Патриса Лумумбы
+    start: 2025-09-01
+    summary: |
+      Первокурсник
+
+awards:
+  - title: Победитель Открытого Конкурса Яндекс Лицея
+    awarder: Яндекс Лицей
+    date: "2025"
+    icon: hero/trophy
+  - title: Призер Регионального Этапа ВСОШ по Английскому Языку
+    awarder: Региональный Этап ВСОШ г. Москва
+    date: "2025"
+    icon: hero/trophy
+  - title: Победитель Идеатона для школьников
+    awarder: ВШЭ ФКН и МТС
+    date: "2024"
+    icon: hero/trophy
+
+languages:
+  - name: Русский
+    level: 5
+    label: Родной C2
+  - name: Английский
+    level: 4.5
+    label: TOEFL C1
+  - name: Немецкий
+    level: 1
+    label: Goethe A1
